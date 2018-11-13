@@ -1,0 +1,13 @@
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.csproj.CoreCompileInputs.cache
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.RazorAssemblyInfo.cache
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.RazorAssemblyInfo.cs
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.AssemblyInfoInputs.cache
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.AssemblyInfo.cs
+C:\dev\DevForums\NS.Questions.API\bin\Debug\netcoreapp2.1\NS.Questions.API.deps.json
+C:\dev\DevForums\NS.Questions.API\bin\Debug\netcoreapp2.1\NS.Questions.API.runtimeconfig.json
+C:\dev\DevForums\NS.Questions.API\bin\Debug\netcoreapp2.1\NS.Questions.API.runtimeconfig.dev.json
+C:\dev\DevForums\NS.Questions.API\bin\Debug\netcoreapp2.1\NS.Questions.API.dll
+C:\dev\DevForums\NS.Questions.API\bin\Debug\netcoreapp2.1\NS.Questions.API.pdb
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.RazorTargetAssemblyInfo.cache
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.dll
+C:\dev\DevForums\NS.Questions.API\obj\Debug\netcoreapp2.1\NS.Questions.API.pdb
